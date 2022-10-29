@@ -1,0 +1,119 @@
+#navbarNavDropdown ul li {
+    margin-left: 25px;
+}
+
+#navbarNavDropdown ul {
+    margin-left: 60px;
+}
+
+.bg-light {
+    background-color: rgb(230, 238, 241);
+
+}
+.box0{
+    width: 120px;
+    
+}
+
+.box1 {
+    
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+    color: white;
+    
+}
+
+.box1 i {
+    font-size: 40px;
+    padding-left: 85px;
+}
+
+.box1 p {
+    font-size: 50px;
+    padding-left: 15px;
+    margin-bottom: 0px;
+    
+    
+}
+
+.box1 b {
+    margin-left: 80px;
+}
+
+.box2 {
+    
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+    color: white;
+}
+
+.box2 i {
+    font-size: 40px;
+    padding-left: 80px;
+}
+
+.box2 p {
+    font-size: 50px;
+    padding-left: 40px;
+    margin-bottom: 0px
+}
+
+.box2 b {
+    margin-left: 77px;
+}
+.box3 {
+    
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+    color: white;
+}
+
+.box3 i {
+    font-size: 40px;
+    padding-left: 78px;
+}
+
+.box3 p {
+    font-size: 50px;
+    padding-left: 27px;
+    margin-bottom: 0px
+}
+
+.box3 b {
+    margin-left: 25px;
+}
+.box4 {
+    
+    width: 200px;
+    height: 200px;
+    padding-top: 50px;
+    color: white;
+}
+
+.box4 i {
+    font-size: 40px;
+    padding-left: 85px;
+}
+
+.box4 p {
+    font-size: 50px;
+    padding-left: 15px;
+    margin-bottom: 0px
+}
+
+.box4 b {
+    margin-left: 15px;
+    
+}
+.box5 i{
+    margin-right: 15px;
+}
+.white{
+    color: white;
+}
+span{
+    color: rgb(23, 86, 7);
+}
